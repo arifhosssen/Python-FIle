@@ -1,0 +1,6 @@
+I'm a Software Engineer.
+I'm a Software Engineer.
+I'm a Data Engineer
+Hay Developer.
+Python Developer
+python.django
